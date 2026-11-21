@@ -1,2 +1,2 @@
 [template]
-ignore = ["cliff.toml"]
+exclude = ["cliff.toml"]
